@@ -3,11 +3,11 @@
 
 Realtime camera filters. Process frames by OpenGL shaders.
 
-**[Download the apk](https://github.com/WeLikeVis/CameraFilter/releases/download/2.2/CameraFilter.apk)** to have a try.
+**[Download the apk](https://github.com/nekocode/CameraFilter/releases)** to have a try.
 
 ## Filters
 
-Thanks to the original authors of the shader codes. I had only portted them from webgl to opengl es.
+Thanks to the original authors of the shader codes. I just port them from webgl to opengl es.
 
 | Filter | Preview | Filter | Preview |
 | :----- | :------ | :----- | :------ |
